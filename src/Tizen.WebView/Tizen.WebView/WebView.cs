@@ -19,6 +19,8 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
+int unUsedVariable4Testing;
+
 namespace Tizen.WebView
 {
     /// <summary>
